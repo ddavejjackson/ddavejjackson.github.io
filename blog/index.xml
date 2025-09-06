@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Startpage</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Startpage</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Startpage</title><link>https://example.org/blog/</link><description>Recent content in Blogs on Startpage</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 06 Sep 2025 15:02:46 +0100</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://example.org/blog/test/</link><pubDate>Sat, 06 Sep 2025 15:02:46 +0100</pubDate><guid>https://example.org/blog/test/</guid><description>&lt;h4 id="using-hugo-range-function-to-print-3-images"&gt;Using HUGO .range function to print 3 images&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Any number of images can be placed here.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>About</title><link>https://example.org/blog/about/</link><pubDate>Fri, 05 Sep 2025 22:31:32 +0100</pubDate><guid>https://example.org/blog/about/</guid><description>&lt;hr&gt;
+&lt;h4 id="whoami"&gt;WhoAmI?&lt;/h4&gt;
+&lt;p&gt;Hello, nice to meet you. I am V, (obviously an alias).&lt;/p&gt;
+&lt;p&gt;I am a 20 something year old anarchist, coder, motorbike mechanic, motorcycle lover, hacker, brother, uncle, son etc.&lt;br&gt;
+I don&amp;rsquo;t believe the current system (mostly politics) suits anyone apart from the UHNWI (Ultra High Net Worth Individuals).&lt;/p&gt;
+&lt;p&gt;For this reason, I feel it is essential for the &amp;ldquo;common man&amp;rdquo; so to speak to take down the system, be a non-conformist etc.&lt;/p&gt;</description></item></channel></rss>
